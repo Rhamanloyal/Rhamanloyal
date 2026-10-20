@@ -227,6 +227,15 @@
       </div>
     </header>
 
+    <section id="writing" style="margin-top: 2rem;">
+  <h3 style="color: var(--text-main);">✍️ Technical Writing & Field Notes</h3>
+  <p>I document structural mechanics, engineering calculations, and data-driven problem solving on my Hashnode blog, <strong><a href="https://rhamanloyal.hashnode.dev" target="_blank">Structural Analysis with rhamanloyal</a></strong>.</p>
+  <ul>
+    <li>📖 <strong><a href="https://rhamanloyal.hashnode.dev/finding-support-reactions" target="_blank">Finding Support Reactions: The Foundation of Structural Analysis</a></strong><br>
+    <em>A step-by-step breakdown on using static equilibrium equations (&sum;F<sub>x</sub> = 0, &sum;F<sub>y</sub> = 0, &sum;M = 0) to solve structural beam supports.</em></li>
+  </ul>
+</section>
+
     <!-- Technical Skills -->
     <section>
       <h2>Technical Capabilities</h2>
